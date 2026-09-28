@@ -13,6 +13,11 @@ packages:
   gitUrl: https://bitbucket.org/testartiibm
   gitUsername: artik
   gitBranch: master
+- name: upperfspackage
+  gitServerName: srcCtrl_bitbucket_Arti
+  gitUrl: https://bitbucket.org/testartiibm
+  gitUsername: artikhare
+  gitBranch: main
 services:
 - serviceName: project.serengetigh2809.integrations:bitbucketfs
   packages:
