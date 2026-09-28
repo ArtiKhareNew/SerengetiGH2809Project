@@ -7,7 +7,7 @@ packages:
   gitUrl: https://github.com/ArtiKhareNew
   gitUsername: ArtiKhareNew
   gitBranch: main
-- name: multiplypublicservice
+- name: MultiplyPublicService
   gitServerName: srcCtrl_shared_bitbucket_Arti
   gitUrl: https://bitbucket.org/testartiibm
   gitUsername: artik
